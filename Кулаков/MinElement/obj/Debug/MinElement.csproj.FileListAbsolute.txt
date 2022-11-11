@@ -1,0 +1,8 @@
+C:\Users\Админ\Documents\Кулаков\MinElement\bin\Debug\MinElement.exe.config
+C:\Users\Админ\Documents\Кулаков\MinElement\bin\Debug\MinElement.exe
+C:\Users\Админ\Documents\Кулаков\MinElement\bin\Debug\MinElement.pdb
+C:\Users\Админ\Documents\Кулаков\MinElement\obj\Debug\MinElement.csproj.AssemblyReference.cache
+C:\Users\Админ\Documents\Кулаков\MinElement\obj\Debug\MinElement.csproj.SuggestedBindingRedirects.cache
+C:\Users\Админ\Documents\Кулаков\MinElement\obj\Debug\MinElement.csproj.CoreCompileInputs.cache
+C:\Users\Админ\Documents\Кулаков\MinElement\obj\Debug\MinElement.exe
+C:\Users\Админ\Documents\Кулаков\MinElement\obj\Debug\MinElement.pdb
